@@ -58,17 +58,13 @@ p {
   transform: scale(1.05);
 }
 
-/* .carousel .carousel-indicators li {
+.carousel .carousel-indicators li {
   background-color: #faab73;
 }
 
 .carousel .carousel-indicators li.active {
   color: #ff8e3c;
 }
-
-.carousel a {
-  color: #ff8e3c;
-} */
 
 footer {
   background-color: black;
