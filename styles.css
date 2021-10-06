@@ -57,8 +57,8 @@ p {
 .d-img:hover {
   transform: scale(1.05);
 }
-/* 
-.carousel .carousel-indicators li {
+
+/* .carousel .carousel-indicators li {
   background-color: #faab73;
 }
 
@@ -67,8 +67,8 @@ p {
 }
 
 .carousel a {
-  color: #ff8e3c; */
-}
+  color: #ff8e3c;
+} */
 
 footer {
   background-color: black;
